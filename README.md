@@ -161,6 +161,13 @@ Notebook pada repository ini menghasilkan:
 
 ---
 
+## Hasil Kinerja Keuntungan Strategi Trading
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/0a0b0f1e-98fe-4c65-aa84-f3c92030e8be" />
+
+## Hasil Kinerja Evaluasi Model 
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/b687cf65-636a-4aa6-92ca-84fff9c0ee0b" />
+
+
 ## Pengembangan Selanjutnya
 
 Pengembangan yang dapat dilakukan antara lain:
