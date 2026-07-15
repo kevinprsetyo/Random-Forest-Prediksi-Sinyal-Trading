@@ -172,11 +172,3 @@ Pengembangan yang dapat dilakukan antara lain:
 - Membangun dashboard visualisasi berbasis web.
 
 ---
-
-## Penulis
-
-**Kevin Glory Prasetyo**
-
-Sarjana Informatika dengan minat pada bidang Machine Learning, Artificial Intelligence, dan Data Science.
-
-GitHub: https://github.com/kevinprsetyo
